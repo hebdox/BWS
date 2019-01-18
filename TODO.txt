@@ -1,0 +1,1 @@
+- draw automatique apres un certain temps pour eviter les bugs. (fucking chloe)
